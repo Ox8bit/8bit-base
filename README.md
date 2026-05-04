@@ -1,16 +1,17 @@
-# 🟦 Base 8-Bit Builder
+# 🟦 BASE 8BIT TERMINAL
 
-Welcome to my onchain playground — built with 8-bit vibes and Base energy ⚡
+> booting onchain identity...
 
-## 🧩 Features
-- Retro 8-bit UI
-- Code-style interface
-- Base network inspired theme
+A retro-futuristic 8-bit terminal interface inspired by Base Network.
 
-## 🚀 Status
-Building in public. More commits coming.
+## ⚡ Features
+- Animated terminal boot sequence
+- Glitch text effect
+- Blinking cursor
+- Onchain / builder vibes
+
+## 🧪 Status
+LIVE — building in public.
 
 ## 🛠 Stack
-- HTML
-- CSS
-- Imagination
+HTML • CSS • Pure vibes
